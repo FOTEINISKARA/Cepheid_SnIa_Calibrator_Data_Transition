@@ -1,4 +1,4 @@
-Table: WFC3-IR Cepheids (from https://iopscience.iop.org/article/10.3847/0004-637X/826/1/56)
+Table III: WFC3-IR Cepheids (from https://iopscience.iop.org/article/10.3847/0004-637X/826/1/56)
 
 
 M101  210.87979   54.333760   115287   17.95  0.96 22.47 0.30  9.134 
