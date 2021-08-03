@@ -10,6 +10,7 @@ Recent studies have indicated that the Hubble tension could be fully resolved in
 # Citing the paper
 
 If you use any of the above codes or the figures in a published work please cite the following paper:
+
 Hints for a luminosity transition in the Cepheid SnIa calibrator data
 Leandros Perivolaropoulos and Foteini Skara arxiv:
 
