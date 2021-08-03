@@ -15,3 +15,9 @@ Hints for a luminosity transition in the Cepheid SnIa calibrator data
 Leandros Perivolaropoulos and Foteini Skara arxiv:
 
 Any further questions/comments are welcome.
+
+# Authors List
+
+Leandros Perivolaropoulos - leandros@uoi.gr
+
+Foteini Skara - f.skara@uoi.gr
