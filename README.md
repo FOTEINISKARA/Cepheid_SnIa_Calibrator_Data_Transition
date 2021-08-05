@@ -1,6 +1,9 @@
 # Cepheid_SnIa_Calibrator_Data_Transition
+![image](https://user-images.githubusercontent.com/88026221/128303464-d7958532-0bbc-4f1e-9cb4-b7412244610e.png)
 
 ![image](https://user-images.githubusercontent.com/88026221/128303146-7bb1a4cd-52ae-4d99-aeae-7308679fd5fd.png)
+
+![image](https://user-images.githubusercontent.com/88026221/128303566-396db812-7b16-4154-bc5f-4b639105b768.png)
 
 ![image](https://user-images.githubusercontent.com/88026221/128061730-f344e86f-a725-4f30-8ce8-23e68ad52937.png)
 
