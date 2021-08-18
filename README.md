@@ -5,7 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/88026221/128303964-b7b2fce8-40c3-4ce5-89a7-29aeb2120abe.png)
 
-![image](https://user-images.githubusercontent.com/88026221/128061730-f344e86f-a725-4f30-8ce8-23e68ad52937.png)
+![image](https://user-images.githubusercontent.com/88026221/129857644-db84f501-ac54-4ee8-914e-52eba99a87d3.png)
+
 
 This repository contains the Mathematica files of arXiv:
 
