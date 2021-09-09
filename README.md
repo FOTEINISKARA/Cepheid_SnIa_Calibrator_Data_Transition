@@ -1,7 +1,6 @@
 # Hubble tension or a transition of the Cepheid SnIa calibrator  parameters?
 
-![image](https://user-images.githubusercontent.com/88026221/132762353-4019cd42-db6c-4064-aef2-3edad7593b06.png)
-
+![image](https://user-images.githubusercontent.com/88026221/132762755-2219bd17-295a-4ed9-9988-069df39570e6.png)
 
 
 This repository contains the Mathematica files of arXiv:
