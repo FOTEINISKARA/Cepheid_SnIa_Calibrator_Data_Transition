@@ -13,7 +13,7 @@ We re-analyze the Cepheid data used to infer the value of the Hubble parameter $
 
 If you use any of the above codes or the figures in a published work please cite the following paper:
 
-Hints for a luminosity transition in the Cepheid SnIa calibrator data
+Hubble tension or a transition of the Cepheid SnIa calibrator parameters?
 Leandros Perivolaropoulos and Foteini Skara arxiv:
 
 Any further questions/comments are welcome.
