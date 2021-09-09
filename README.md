@@ -1,11 +1,4 @@
 # Hubble tension or a transition of the Cepheid SnIa calibrator  parameters?
-![image](https://user-images.githubusercontent.com/88026221/128303464-d7958532-0bbc-4f1e-9cb4-b7412244610e.png)
-
-![image](https://user-images.githubusercontent.com/88026221/128303146-7bb1a4cd-52ae-4d99-aeae-7308679fd5fd.png)
-
-![image](https://user-images.githubusercontent.com/88026221/128303964-b7b2fce8-40c3-4ce5-89a7-29aeb2120abe.png)
-
-![image](https://user-images.githubusercontent.com/88026221/129857644-db84f501-ac54-4ee8-914e-52eba99a87d3.png)
 
 ![image](https://user-images.githubusercontent.com/88026221/132246152-8115f4fe-7d1e-45d2-bae7-c099beaf0807.png)
 
