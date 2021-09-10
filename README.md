@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/88026221/132762755-2219bd17-295a-4ed9-9988-069df39570e6.png)
 
 
-This repository contains the Mathematica files of arXiv:
+This repository contains the Mathematica files of  arXiv:2109.04406
+
 
 # Abstract
 
@@ -14,7 +15,8 @@ If you use any of the above codes or the figures in a published work please cite
 
 Hubble tension or a transition of the Cepheid SnIa calibrator parameters?
 
-Leandros Perivolaropoulos and Foteini Skara arxiv:
+Leandros Perivolaropoulos and Foteini Skara  arXiv:2109.04406
+
 
 Any further questions/comments are welcome.
 
